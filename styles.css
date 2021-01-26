@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('rsz_img_4825.jpeg') no-repeat top center ;
+  background: url('rsz_img_4825.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -198,16 +198,4 @@ a.social:hover {
     margin: 40px auto;
   }
 
-}
-
-/*Resume.html CSS code*/
-
-.resume {
-  font-size: 3em;
-  color: crimson;
-  text-align: center;
-}
-
-.experience {
-  color: orange;
 }
